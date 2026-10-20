@@ -10,10 +10,10 @@
 ## Use
 
 ```bash
-sbx create claude . --kit 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.33&dir=sandshell-claude'
+sbx create claude . --kit 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.34&dir=sandshell-claude'
 ```
 
-Or add it to a running sandbox: `sbx kit add <sandbox> 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.33&dir=sandshell-claude'`.
+Or add it to a running sandbox: `sbx kit add <sandbox> 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.34&dir=sandshell-claude'`.
 
 ## The wrapper
 

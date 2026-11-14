@@ -12,10 +12,10 @@ They're v3 kits (sbx 0.51 or later): a `spec.yaml` and a `Dockerfile` that sbx b
 ## Use
 
 ```bash
-SBX_KIT_BUILDER=sandbox sbx create claude . --kit 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.59&dir=sandshell-claude'
+SBX_KIT_BUILDER=sandbox sbx create claude . --kit 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.60&dir=sandshell-claude'
 ```
 
-Or add it to a running sandbox: `sbx kit add <sandbox> 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.59&dir=sandshell-claude'`.
+Or add it to a running sandbox: `sbx kit add <sandbox> 'git+https://github.com/xmas/sandshell-kits.git#ref=v0.2.60&dir=sandshell-claude'`.
 
 ## The wrapper
 
